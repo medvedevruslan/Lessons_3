@@ -3,9 +3,12 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
+        maven { url 'https://jitpack.io' }
     }
 }
 rootProject.name = "Lessons_3"
 include ':app'
 include ':camera_klimov'
+include ':suspend_coroutines'
+include ':stickyswitch'
+include ':sealed_class_example'

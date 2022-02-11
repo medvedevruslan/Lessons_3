@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="allPhone">#34393e</color>
+    <color name="tintIndicators">#FFC107</color>
+
+    <!-- Серый градиент -->
+    <color name="main_start">#33383e</color>
+    <color name="main_center">#282d33</color>
+    <color name="main_end">#191a1e</color>
+
+    <!-- Градиент главных кнопок управления -->
+    <color name="button_color_start">#035F9F</color>
+    <color name="button_color_center">#0A79C1</color>
+    <color name="button_color_end">#0F93DD</color>
+    <color name="button_color_ring_on">#0F93DD</color>
+    <color name="button_color_ring_off">#5C6167</color>
+    <color name="button_color_txt_on_off">#FFFFFF</color>
+    <color name="button_color_off">#24272c</color>
+
+
+    <!-- Цвет элемента в информационном списке -->
+    <color name="color_item">#1c1f24</color>
+
+    <!-- Цвет кнопок отвечающих за настройки на главном экране -->
+    <color name="color_button_main">#202427</color>
+    <color name="color_button_main_icon">#4b4e53</color>
+    <color name="circuit">#5C6167</color>
+    <color name="swipe_strip">#1A1B1B</color>
+
+
+    <!-- Bottom Sheet -->
+    <color name="bottom_sheet">#282d33</color>
+    <color name="bottom_sheet_ring">#5C6167</color>
+
+
+    <!-- Bottom Sheet Light -->
+    <color name="bottom_sheet_light">#DBDDDE</color>
+    <color name="bottom_sheet_ring_light">#5C6167</color>
+
+    <!--Прозрачный фон-->
+    <color name="trans">#00000000</color>
+
+
+    <!-- Цвета для seekbar -->
+    <color name="progress_start">#0269b4</color>
+    <color name="progress_end">#119eee</color>
+    <color name="thumb_stroke">#303335</color>
+    <color name="thumb_center">#088bdb</color>
+
+    <!-- Градиент кнопок навигации на главном экране -->
+    <color name="button_color_start_nav">#035F9F</color>
+    <color name="button_color_center_nav">#0A79C1</color>
+    <color name="button_color_end_nav">#0F93DD</color>
+    <color name="button_color_stroke_nav">#0F93DD</color>
+    <color name="button_color_off_nav">#24272c</color>
+
+    <color name="bloodRed">#BB0A1E</color>
+
+    <!--&lt;!&ndash; Градиент кнопок для progressbar &ndash;&gt;
+    <color name="color_start_progress">#035F9F</color>
+    <color name="color_center_progress">#0A79C1</color>
+    <color name="color_end_progress">#0F93DD</color>
+    <color name="color_progress_back">#24272c</color>
+    <color name="color_progress_back_stroke">#5C6167</color>
+    <color name="color_progress_shape">#24272c</color>
+    <color name="color_progress_shape_stroke">#5C6167</color>-->
+
+
+    <!-- Градиент для switch -->
+    <color name="switch_thumb_start">#035F9F</color>
+    <color name="switch_thumb_center">#0A79C1</color>
+    <color name="switch_thumb_end">#0F93DD</color>
+    <color name="switch_thumb_ring">#0F93DD</color>
+    <color name="switch_thumb_off">#5C6167</color>
+    <color name="switch_truck_off">#24272c</color>
+
+
+    <color name="button_color_off_nav_lighter">#383B40</color>
+
+    <!-- Градиент progressbar для спидометра -->
+    <color name="color_start_progress">#0065FF</color>
+    <color name="color_end_progress">#F8060F</color>
+
+    <!-- Градиент progressbar для тахометра -->
+    <color name="color_start_tach">#024479</color>
+    <color name="color_end_tach">#00ecbc</color>
+
+    <!-- Неактивная часть progressbar -->
+    <color name="color_progress_shape">#2F3337</color>
+
+    <!-- Цвет текста progressbar -->
+    <color name="colorNotActiveGaugeText">#80ffffff</color>
+    <color name="colorActiveGaugeText">#ffffff</color>
+
+    <!-- Градиент температуры двигателя -->
+    <color name="temp_engine_vertical_start">#0065FF</color>
+    <color name="temp_engine_vertical_center">#FF9800</color>
+    <color name="temp_engine_vertical_end">#F8060F</color>
+
+    <!-- Градиент температуры салона -->
+    <color name="temp_salon_vertical_start">#0065FF</color>
+    <color name="temp_salon_vertical_center">#FF9800</color>
+    <color name="temp_salon_vertical_end">#F8060F</color>
+
+    <!-- Градиент запаса кm топливного бака -->
+    <color name="km_fuel_vertical_start">#AB0709</color>
+    <color name="km_fuel_vertical_center">#A88F1A</color>
+    <color name="km_fuel_vertical_end">#f9d423</color>
+
+    <!-- Градиент запаса кm акуммулятора -->
+    <color name="km_battery_vertical_start">#AB0709</color>
+    <color name="km_battery_vertical_center">#A88F1A</color>
+    <color name="km_battery_vertical_end">#f9d423</color>
+
+</resources>

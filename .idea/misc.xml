@@ -6,6 +6,12 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5111111111111111" />
         <entry key="camera_klimov/src/main/res/layout/activity_main.xml" value="0.67" />
         <entry key="camera_klimov/src/main/res/xml/paths.xml" value="1.25" />
+        <entry key="sealed_class_example/src/main/res/layout/activity_main.xml" value="0.8328125" />
+        <entry key="stickyswitch/src/main/res/drawable-v24/button_nav_on.xml" value="0.8786458333333333" />
+        <entry key="stickyswitch/src/main/res/drawable/brightness_off.xml" value="0.8786458333333333" />
+        <entry key="stickyswitch/src/main/res/drawable/brightness_on.xml" value="0.8786458333333333" />
+        <entry key="stickyswitch/src/main/res/layout/activity_main.xml" value="0.75" />
+        <entry key="suspend_coroutines/src/main/res/layout/activity_main.xml" value="0.8583333333333333" />
       </map>
     </option>
   </component>

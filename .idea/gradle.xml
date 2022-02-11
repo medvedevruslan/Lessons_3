@@ -12,6 +12,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/camera_klimov" />
+            <option value="$PROJECT_DIR$/sealed_class_example" />
+            <option value="$PROJECT_DIR$/stickyswitch" />
+            <option value="$PROJECT_DIR$/suspend_coroutines" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <!--ss_sliderBackgroundColor -  устанавливать только color-->
+    <io.ghyeok.stickyswitch.widget.StickySwitch
+        android:id="@+id/sticky_switch4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:ss_animationDuration="600"
+        app:ss_iconSize="30dp"
+        app:ss_iconPadding="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.41"
+        app:ss_leftIcon="@drawable/brightness_off"
+        app:ss_leftText="Auto OFF"
+        app:ss_animationType="line"
+        app:ss_rightIcon="@drawable/brightness_on"
+        app:ss_rightText="Auto ON"
+        app:ss_selectedTextSize="16sp"
+        app:ss_sliderBackgroundColor="@color/button_color_ring_off"
+        app:ss_switchColor="@color/button_color_center_nav"
+        app:ss_textColor="@color/white"
+        app:ss_textSize="12sp" />
+
+
+
+    <!--ss_sliderBackgroundColor -  устанавливать только color-->
+    <io.ghyeok.stickyswitch.widget.StickySwitch
+        android:id="@+id/sticky_switch24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/sticky_switch4"
+        app:layout_constraintVertical_bias="0.202"
+        app:ss_animationDuration="600"
+        app:ss_animationType="curved"
+        app:ss_iconPadding="15dp"
+        app:ss_iconSize="30dp"
+        app:ss_leftIcon="@drawable/brightness_off"
+        app:ss_leftText="Auto OFF"
+        app:ss_rightIcon="@drawable/brightness_on"
+        app:ss_rightText="Auto ON"
+        app:ss_selectedTextSize="16sp"
+        app:ss_sliderBackgroundColor="@color/button_color_ring_off"
+        app:ss_switchColor="@color/button_color_center_nav"
+        app:ss_textColor="@color/white"
+        app:ss_textSize="12sp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
